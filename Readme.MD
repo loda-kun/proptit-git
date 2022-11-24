@@ -1,4 +1,4 @@
 # git-training
 
 May A
-May B
+May B -> cut
